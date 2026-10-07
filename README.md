@@ -107,13 +107,16 @@ If you found our work useful, please cite us. For the two-stage decoupled GNN an
 Khoi Nguyen Pham, Ngoc Thao Vy Tran, Thanh Quan Nguyen, Kim Ngan Tran, Minh Phuong Ha, Hung-Nghiep Tran. "A Hybrid Two-Stage Framework for Twitter Bot Detection: Decoupling Graph Representation Learning and Classification." MAPR, 2026. doi: xxx
 
 ```bibtex
-@inproceedings{pham2026hybrid,
-  title     = {A Hybrid Two-Stage Framework for Twitter Bot Detection: Decoupling Graph Representation Learning and Classification},
-  author    = {Pham, Khoi Nguyen and Tran, Ngoc Thao Vy and Nguyen, Thanh Quan and Tran, Kim Ngan and Ha, Minh Phuong and Tran, Hung-Nghiep},
-  booktitle = {Proceedings of MAPR},
-  year      = {2026},
-  doi       = {to appear}
-}
+@INPROCEEDINGS{11685731,
+  author={Pham, Khoi Nguyen and Tran, Ngoc Thao Vy and Nguyen, Thanh Quan and Tran, Kim Ngan and Ha, Minh Phuong and Tran, Hung-Nghiep},
+  booktitle={2026 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)}, 
+  title={A Hybrid Two-Stage Framework for Twitter Bot Detection: Decoupling Graph Representation Learning and Classification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={394-399},
+  keywords={Graph neural networks;Modeling;Training;Social networking (online);Bot (Internet);Chatbots;Signal detection;Equations;Manuals;Learning (artificial intelligence);Twitter bot detection;graph neural networks;decoupled learning;XGBoost;TwiBot-22},
+  doi={10.1109/MAPR72750.2026.11685731}}
 ```
 
 For the TwiBot-22 dataset itself, please also cite the original benchmark paper as referenced in our related work section.
